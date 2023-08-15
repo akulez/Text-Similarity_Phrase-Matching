@@ -1,5 +1,5 @@
 # Text-Similarity_Phrase-Matching
-This notebook focuses on applying some classical and modern Text Similarity measures to US Patent Matching Dataset and check how well classical models including Jaro Winkler and Jaccard score as well as modern day Word2Vec and USE(Universal Sentence Encoder) can detect similarity between textual data. The project was done in several steps as follows:
+This notebook focuses on applying some classical and modern Text Similarity measures to US Patent Matching Dataset and check how well classical models including Jaro Winkler, Jaccard score as well as modern day Word2Vec and USE(Universal Sentence Encoder) can detect similarity between textual data. The project was done in several steps as follows:
 
 1. **Exploratory Data Analysis and Basic Preprocessing**
    - In this part I have focused on conducting initial analaysis of the text columns in hand with various descriptive stats.
